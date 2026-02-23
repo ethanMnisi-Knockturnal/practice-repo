@@ -3,5 +3,7 @@ public class App {
 
         System.out.println("Hello World v1");
 
+        // New feature
+        System.out.println("New feature coming...");
     }
 }
